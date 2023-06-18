@@ -60,7 +60,7 @@ Contributions to the Advance Control System repository are welcome! If you have 
 
 ### License
 
-The Advance Control System repository is available under the [MIT License](https://github.com/mimigatto/AdvanceControlSystem/blob/main/LICENSE). You are free to use, modify, and distribute the code for personal or commercial purposes.
+The Advance Control System repository is available under the [APACHE License](https://github.com/mimigatto/AdvanceControlSystem/main/LICENSE). You are free to use, modify, and distribute the code for personal or commercial purposes.
 
 ### Contact
 
