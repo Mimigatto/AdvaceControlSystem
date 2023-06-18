@@ -64,7 +64,7 @@ The Advance Control System repository is available under the [MIT License](https
 
 ### Contact
 
-If you have any questions, suggestions, or feedback, feel free to contact the repository maintainer at monruethai.sueksakan_03@studenti.univr.it(mailto: monruethai.sueksakan_03@studenti.univr.it). I appreciate your interest and involvement in the Advance Control System project!
+If you have any questions, suggestions, or feedback, feel free to contact the repository maintainer at monruethai.sueksakan_03@studenti.univr.it I appreciate your interest and involvement in the Advance Control System project!
 
 Enjoy exploring and experimenting with the advanced control techniques for the RPR robot in this repository. Happy coding!
 
